@@ -1,0 +1,12 @@
+employee_id,last_name,first_name,manager_id,hire_date,department_id,salary,location
+100,King,Steven,,01-Jan-17,90,7600,BLR
+101,Kochhar,Neena,100,02-Feb-17,90,2000,MYS
+102,De Haan,Lex,100,01-Jan-16,90,5000,BLR
+103,Hunold,Alexander,102,02-Mar-17,60,4000,BLR
+104,Ernst,Bruce,102,01-Jan-15,60,7000,DELHI
+105,Austin,David,102,01-Mar-17,60,2000,Mysore
+106,Pataballa,Valli,103,02-Mar-17,60,5000,DELHI
+107,Lorentz,Diana,103,03-Mar-17,60,4000,Mys
+108,Greenberg,Nancy,101,04-Mar-17,,9000,BLR
+109,Faviet,Daniel,108,05-Mar-17,100,2000,Mumbai
+110,Chen,John,108,06-Mar-17,100,1000,Mangalore

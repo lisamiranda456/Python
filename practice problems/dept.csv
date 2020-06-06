@@ -1,0 +1,6 @@
+dept_id,department_name,manager_id,location_id
+10,Administration,101,1700
+90,Executive ,100,1700
+60,IT,103,1400
+100,Accounting,105,1700
+110,HR,,1800
